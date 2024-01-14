@@ -1,19 +1,29 @@
 Hi, I’m Davide.
 
-**Check out my programmer's portfolio [✨here✨](https://dpasca.github.io/portfolio/)**
+| |
+|-|
+| **Check out my programmer's portfolio [✨here✨](https://dpasca.github.io/portfolio/) for more details** |
 
-I consider programming computers the ultimate form of exploration and creativity, everything else is secondary.
-I'm an R&D guy at the core, although I also appreciate publishing products, because it's something that can have a direct impact on people.
+Programming represents the pinnacle of exploration and creativity for me. I'm deeply involved in R&D, constantly pursuing innovative ideas and technologies. In the years I also found significant satisfaction in developing impactful software, particularly in the realms of gaming and interactive media, used and enjoyed by millions worldwide.
 
-My current main interest is in **AI**, both at the low-level (**C++, PyTorch**) and higher level (**Python, LLM APIs, prompt engineering***).
-My interested in AI and machine-learning started in 2018, when I began developing *ENZO*, an **algorithmic trading** system for cryptocurrencies.
-Previous to that, I spent 20 years working in **game development** and **3D graphics**, working both for large game companies and my own dev studio.
+## Career
 
-- I have a blog where I write about my deeper thoughts (!) at [xpsvr.com](https://xpsvr.com)
-- My algorithmic trading system, based on neuro evolution: [www.enzobot.com](https://www.enzobot.com)
-- My mobile games: [oykgames.com](https://oykgames.com)
-- I sometimes post videos on [YouTube](https://www.youtube.com/c/DavidePasca)
+My current focus is on **AI**, encompassing both the technical depths of **C++ and PyTorch** and the strategic aspects of **Python, LLM APIs, and prompt engineering**. My journey into AI and machine learning began in 2017 with projects in flight simulation, evolving to the development of [ENZO-TS](https://www.enzobot.com), an **algorithmic trading** system for cryptocurrencies.
 
-I'm very passionate about technology development and programming. I spent most of my career writing C++ code, although for the past year I've been using Python more and more, for the sake of AI R&D.
+Prior to this, I dedicated over two decades to **game development** and **real-time 3D graphics**, gaining experience in major gaming corporations as well as spearheading projects at my own [development studio](https://oykgames.com).
 
-Italian is my mother tongue, English second, Japanese a distant third. I've been studying Russian and Chinese very lazily... some day something will come out of it.
+## A programmer in 2024
+
+I'm not a terribly nostalgic person, and while I do appreciate how programming used to be, I very much welcomed the benefits recently brought by AI tools such as *ChatGPT* and *Copilot*. I've always wished for more time and more brain power to explore and implement many ideas that I had, and these tools are a giant leap in that direction.
+
+I believe (hope ?) that as much as an equalizer these AI tools are, they will continue to work as a force multiplier, expecially for those of us that have extensive experience in software engineering.
+
+## Quick Links
+
+|                      |                                           |
+|----------------------|-------------------------------------------|
+| My GitHub            | [profile](https://github.com/dpasca) and [portfolio](https://dpasca.github.io/portfolio) |
+| My Trading System    | [ENZO-TS](https://www.enzobot.com)        |
+| My YouTube channel   | [channel](https://www.youtube.com/c/DavidePasca) |
+| My blog              | [xpsvr.com](https://xpsvr.com)            |
+| Contact              | dpasca@gmail.com                          |
