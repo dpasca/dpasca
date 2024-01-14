@@ -22,9 +22,7 @@ I'm not a terribly nostalgic person, and while I do appreciate how programming u
 
 I believe (hope ?) that as much as an equalizer these AI tools are, they will continue to work as a force multiplier, expecially for those of us that have extensive experience in software engineering.
 
-## Quick Links
-
-|                           |                                           |
+|  Quick Links              |                                           |
 |:--------------------------|:------------------------------------------|
 | 💻 My GitHub Profile      | [profile](https://github.com/dpasca)      |
 | 📚 My GitHub Portfolio    | [portfolio](https://dpasca.github.io/portfolio) |
