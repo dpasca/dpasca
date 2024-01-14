@@ -6,9 +6,13 @@ Hi, I’m Davide.
 
 Programming represents the pinnacle of exploration and creativity for me. I'm deeply involved in R&D, constantly pursuing innovative ideas and technologies. In the years I also found significant satisfaction in developing impactful software, particularly in the realms of gaming and interactive media, used and enjoyed by millions worldwide.
 
+My native language is Italian 🇮🇹, I'm fluent in English 🇺🇸, decent in Japanese 🇯🇵, and I can catch some words in Russian 🇷🇺 and Chinese 🇨🇳.
+
 ## Career
 
-My current focus is on **AI**, encompassing both the technical depths of **C++ and PyTorch** and the strategic aspects of **Python, LLM APIs, and prompt engineering**. My journey into AI and machine learning began in 2017 with projects in flight simulation, evolving to the development of [ENZO-TS](https://www.enzobot.com), an **algorithmic trading** system for cryptocurrencies.
+My current focus is on **AI**, encompassing both the technical depths of **C++ and PyTorch** and the strategic aspects of **Python, LLM APIs, and prompt engineering**.
+
+My journey into AI and machine-learning began in 2017 working on the [XPSVR flight sim](https://dpasca.github.io/portfolio/#xpsvr-experimental-flight-simulator), progressing with the development of [ENZO-TS](https://www.enzobot.com), an **algorithmic trading** system for cryptocurrencies.
 
 Prior to this, I dedicated over two decades to **game development** and **real-time 3D graphics**, gaining experience in major gaming corporations as well as spearheading projects at my own [development studio](https://oykgames.com).
 
@@ -20,10 +24,11 @@ I believe (hope ?) that as much as an equalizer these AI tools are, they will co
 
 ## Quick Links
 
-|                      |                                           |
-|----------------------|-------------------------------------------|
-| My GitHub            | [profile](https://github.com/dpasca) and [portfolio](https://dpasca.github.io/portfolio) |
-| My Trading System    | [ENZO-TS](https://www.enzobot.com)        |
-| My YouTube channel   | [channel](https://www.youtube.com/c/DavidePasca) |
-| My blog              | [xpsvr.com](https://xpsvr.com)            |
-| Contact              | dpasca@gmail.com                          |
+|                           |                                           |
+|:--------------------------|:------------------------------------------|
+| 💻 My GitHub Profile      | [profile](https://github.com/dpasca)      |
+| 📚 My GitHub Portfolio    | [portfolio](https://dpasca.github.io/portfolio) |
+| 📈 My Trading System      | [ENZO-TS](https://www.enzobot.com)        |
+| 📺 My YouTube Channel     | [channel](https://www.youtube.com/c/DavidePasca) |
+| ✍️ My Blog                | [xpsvr.com](https://xpsvr.com)            |
+| 📧 Contact                | dpasca@gmail.com                          |
