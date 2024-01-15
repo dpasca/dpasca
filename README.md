@@ -18,7 +18,7 @@ My journey into AI and machine-learning began in 2017 working on the [XPSVR flig
 
 Prior to this, I dedicated over two decades to **game development** and **real-time 3D graphics**, gaining experience in major gaming corporations as well as spearheading projects at my own [development studio](https://oykgames.com).
 
-## A programmer in 2024
+## A programmer in 2024 ?
 
 I'm not a terribly nostalgic person, and while I do appreciate how programming used to be, I very much welcomed the benefits recently brought by AI tools such as *ChatGPT* and *Copilot*. I've always wished for more time and more brain power to explore and implement many ideas that I had, and these tools are a giant leap in that direction.
 
@@ -26,9 +26,9 @@ I believe (hope ?) that as much as an equalizer these AI tools are, they will co
 
 |  Quick Links              |                                           |
 |:--------------------------|:------------------------------------------|
-| 💻 My GitHub Profile      | [profile](https://github.com/dpasca)      |
-| 📚 My GitHub Portfolio    | [portfolio](https://dpasca.github.io/portfolio) |
+| 💻 My GitHub Profile      | [github.com/dpasca](https://github.com/dpasca)      |
+| 📚 My GitHub Portfolio    | [dpasca.github.io/portfolio](https://dpasca.github.io/portfolio) |
 | 📈 My Trading System      | [ENZO-TS](https://www.enzobot.com)        |
-| 📺 My YouTube Channel     | [channel](https://www.youtube.com/c/DavidePasca) |
+| 📺 My YouTube Channel     | [DavidePasca](https://www.youtube.com/c/DavidePasca) |
 | ✍️ My Blog                | [xpsvr.com](https://xpsvr.com)            |
 | 📧 Contact                | dpasca@gmail.com                          |
