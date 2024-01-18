@@ -14,7 +14,7 @@ My current focus lies in **AI**, balancing between the detailed intricacies of *
 
 My journey into AI and machine-learning began in 2017 working on the [XPSVR flight sim](https://dpasca.github.io/portfolio/#xpsvr-experimental-flight-simulator), progressing with the development of [ENZO-TS](https://www.enzobot.com), an **algorithmic trading** system for cryptocurrencies.
 
-[Here](https://github.com/topics/ai?q=user:dpasca) is a list of AI-related projects and experiments I've released as Open Source.
+See my [AI-related projects & experiments](https://github.com/topics/ai?q=user:dpasca) that I've released as Open Source.
 
 Prior to this, I dedicated over two decades to **game development** and **real-time 3D graphics**, gaining experience in major gaming corporations as well as spearheading projects at my own [development studio](https://oykgames.com).
 
