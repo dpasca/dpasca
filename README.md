@@ -12,12 +12,7 @@ My native language is Italian 🇮🇹, I'm fluent in English 🇺🇸, decent i
 
 My current focus lies in [**AI R&D**](https://dpasca.github.io/portfolio/#ai-rnd), working both at the low level with **C++**, **Python**, and **PyTorch**, and at the higher level with LLMs, **OpenAI's API** and **agent-based architectures**.
 
-In the years I've applied AI / ML to **financial market forecasting**, simulated **Flight Control Systems**, **time-series prediction** for financial markets and, more recently **virtual assistants** and **agents** running on modern LLMs.
-
-- [ChatAI](https://github.com/dpasca/ChatAI) (GitHub), a virtual assistant integrating OpenAI's API
-- [ENZO Trading System](https://dpasca.github.io/portfolio/#enzo-trading-system), an automated trading system for crypto
-- [XPSVR](https://dpasca.github.io/portfolio/#xpsvr-experimental-flight-simulator), an experimental flight simulator
-- My [AI projects & experiments](https://github.com/topics/ai?q=user:dpasca) on GitHub
+I've successfully applied **AI / ML** to **financial market forecasting** ([ENZO-TS](https://dpasca.github.io/portfolio/#enzo-trading-system)), **autopilot** ([XPSVR](https://dpasca.github.io/portfolio/#xpsvr-experimental-flight-simulator)) and, more recently, **virtual assistants** and **agents** ([ChatAI](https://github.com/dpasca/ChatAI)) running on modern LLMs (more [on GitHub](https://github.com/topics/ai?q=user:dpasca))
 
 Prior to AI, I dedicated over two decades to **game development** and **real-time 3D graphics**, gaining experience in major gaming corporations as well as spearheading projects at my own [development studio](https://oykgames.com).
 
