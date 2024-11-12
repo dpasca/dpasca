@@ -3,7 +3,6 @@ Programming represents the pinnacle of exploration and creativity for me. I'm de
 My native language is Italian 🇮🇹, I'm fluent in English 🇺🇸, decent in Japanese 🇯🇵, and I can catch some words in Russian 🇷🇺 and Chinese 🇨🇳.
 
 ## Career
-
 My current focus lies in [AI Research & Development](https://newtypekk.com/#ai-research), working both at the low level with **C++**, **Python**, and **PyTorch**, and at the higher level with LLMs, **OpenAI's API** and **agent-based architectures**.
 
 I've successfully applied **AI / ML** to:
@@ -13,6 +12,21 @@ I've successfully applied **AI / ML** to:
 - Video games: [RogueLLM](https://github.com/dpasca/roguellm)
 
 Prior to AI, I dedicated over two decades to **game development** and **real-time 3D graphics**, gaining experience in major gaming corporations as well as spearheading projects at my own [development studio](https://oykgames.com).
+
+<div align="center">
+  <a href="https://newtypekk.com/#ai-research">
+    <img src="https://raw.githubusercontent.com/dpasca/dpasca-sdl2-template/master/Docs/demo9_sshot.png" width="180" alt="Autonomous Systems">
+  </a>
+  <a href="https://dpasca.github.io/portfolio/#xpsvr-experimental-flight-simulator">
+    <img src="https://xpsvr.com/wp-content/uploads/2018/04/sshot_180310_045322.jpg" width="180" alt="XPSVR Flight Simulator">
+  </a>
+  <a href="https://newtypekk.com/#game-development">
+    <img src="https://newtypekk.com/images/ff2_05_kate_kenyon_960.png" width="180" alt="Final Freeway 2R">
+  </a>
+  <a href="https://newtypekk.com/#game-development">
+    <img src="https://newtypekk.com/images/fcx_sshot_01_140303_014657_2208x1242.jpg" width="180" alt="Fractal Combat X">
+  </a>
+</div>
 
 ## A programmer in 2024 ?
 
