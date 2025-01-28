@@ -6,7 +6,7 @@ My native language is Italian 🇮🇹, I'm fluent in English 🇺🇸, decent i
 My current focus lies in [AI Research & Development](https://newtypekk.com/#ai-research), working both at the low level with **C++**, **Python**, and **PyTorch**, and at the higher level with LLMs, **OpenAI's API** and **agent-based architectures**.
 
 I've successfully applied **AI / ML** to:
-- Financial market forecasting: [ENZO-TS](https://dpasca.github.io/portfolio/#enzo-trading-system)
+- Automated crypto trading: [ENZO-TS](https://dpasca.github.io/portfolio/#enzo-trading-system)
 - Simple autopilot logic for airframes: [XPSVR](https://dpasca.github.io/portfolio/#xpsvr-experimental-flight-simulator)
 - Virtual assistants with fact-checking and RAG: [ChatAI](https://github.com/dpasca/ChatAI)
 - Video games: [RogueLLM](https://github.com/dpasca/roguellm)
