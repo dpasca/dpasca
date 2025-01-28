@@ -18,7 +18,7 @@ Prior to AI, I dedicated over two decades to **game development** and **real-tim
     <img src="https://raw.githubusercontent.com/dpasca/dpasca-sdl2-template/master/Docs/demo9_sshot.png" width="180" alt="Autonomous Systems">
   </a>
   <a href="https://dpasca.github.io/portfolio/#xpsvr-experimental-flight-simulator">
-    <img src="https://xpsvr.com/wp-content/uploads/2018/04/sshot_180310_045322.jpg" width="180" alt="XPSVR Flight Simulator">
+    <img src="https://xpsvr.com/images/blog/sshot_180310_045322.jpg" width="180" alt="XPSVR Flight Simulator">
   </a>
   <a href="https://newtypekk.com/#game-development">
     <img src="https://newtypekk.com/images/ff2_05_kate_kenyon_960.png" width="180" alt="Final Freeway 2R">
