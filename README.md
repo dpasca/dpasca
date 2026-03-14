@@ -38,14 +38,20 @@ This is also what led me to build [Little Control Room](https://github.com/dpasc
 
 I believe this to be a new golden age for engineers. Modern LLMs are incredibly powerful. A major focus of my research is to extract the most from them, from the perspective of a software engineer.
 
-<div align="center">
-  <a href="https://github.com/dpasca/LittleControlRoom">
-    <img src="https://raw.githubusercontent.com/dpasca/LittleControlRoom/master/docs/screenshots/main-panel.png" width="420" alt="Little Control Room dashboard">
-  </a>
-  <a href="https://github.com/dpasca/LittleControlRoom">
-    <img src="https://raw.githubusercontent.com/dpasca/LittleControlRoom/master/docs/screenshots/codex-embedded.png" width="420" alt="Little Control Room embedded Codex session">
-  </a>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/dpasca/LittleControlRoom">
+        <img src="https://raw.githubusercontent.com/dpasca/LittleControlRoom/master/docs/screenshots/main-panel.png" width="400" alt="Little Control Room dashboard">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dpasca/LittleControlRoom">
+        <img src="https://raw.githubusercontent.com/dpasca/LittleControlRoom/master/docs/screenshots/diff-view-image.png" width="400" alt="Little Control Room image diff view">
+      </a>
+    </td>
+  </tr>
+</table>
 
 |  Quick Links              |                                           |
 |:--------------------------|:------------------------------------------|
