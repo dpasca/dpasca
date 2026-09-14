@@ -1,63 +1,26 @@
-Programming represents the pinnacle of exploration and creativity for me. I'm deeply involved in R&D, constantly pursuing innovative ideas and technologies. In the years I also found significant satisfaction in developing impactful software, particularly in the realms of gaming and interactive media, used and enjoyed by millions worldwide.
+### Graphics · Simulation · AI tools
 
-My native language is Italian 🇮🇹, I'm fluent in English 🇺🇸, decent in Japanese 🇯🇵, and still slowly learning other languages in my free time.
+I build real-time graphics engines, games, and developer tools. My background includes engine R&D at Square Enix, the Final Fantasy VIII Windows port, and independent mobile games with over a million downloads.
 
-## Career
-My current focus lies in [AI Research & Development](https://newtypekk.com/#ai-research), working both at the low level with **C++**, **Python**, and **PyTorch**, and at the higher level with LLMs, **OpenAI's API** and **agent-based architectures**.
+Currently building **OVERSWEEP**, a C++20/Vulkan combat flight game, and **Little Control Room**, the workspace I use to coordinate coding agents across projects.
 
-I've successfully applied **AI / ML** to:
-- Automated crypto trading: [ENZO-TS](https://dpasca.github.io/portfolio/#enzo-trading-system)
-- Simple autopilot logic for airframes: [XPSVR](https://dpasca.github.io/portfolio/#xpsvr-experimental-flight-simulator)
-- Advanced chat platforms and agentic assistants: [AskMei.ai](https://askmei.ai)
-- Virtual assistants with fact-checking and RAG: [ChatAI](https://github.com/dpasca/ChatAI)
-- Developer tooling for AI workflows across local projects: [Little Control Room](https://github.com/dpasca/LittleControlRoom)
-- Video games: [RogueLLM](https://github.com/dpasca/roguellm)
+**[Selected work, demos, and background → Portfolio](https://dpasca.github.io/portfolio/)** · [Email](mailto:dpasca@gmail.com)
 
-Prior to AI, I dedicated over two decades to **game development** and **real-time 3D graphics**, gaining experience in major gaming corporations as well as spearheading projects at my own [development studio](https://oykgames.com).
+<a href="https://dpasca.github.io/portfolio/#oversweep">
+  <img src="https://dpasca.github.io/portfolio/images/oversweep-cockpit-forward.jpg" alt="OVERSWEEP's current cockpit, with live instruments and HUD above the sea" width="900">
+</a>
 
-<div align="center">
-  <a href="https://newtypekk.com/#ai-research">
-    <img src="https://raw.githubusercontent.com/dpasca/dpasca-sdl2-template/master/Docs/demo9_sshot.png" width="180" alt="Autonomous Systems">
-  </a>
-  <a href="https://dpasca.github.io/portfolio/#xpsvr-experimental-flight-simulator">
-    <img src="https://xpsvr.com/images/blog/sshot_180310_045322.jpg" width="180" alt="XPSVR Flight Simulator">
-  </a>
-  <a href="https://newtypekk.com/#game-development">
-    <img src="https://newtypekk.com/images/ff2_05_kate_kenyon_960.png" width="180" alt="Final Freeway 2R">
-  </a>
-  <a href="https://newtypekk.com/#game-development">
-    <img src="https://newtypekk.com/images/fcx_sshot_01_140303_014657_2208x1242.jpg" width="180" alt="Fractal Combat X">
-  </a>
-</div>
+*OVERSWEEP — a playable flight-combat vertical slice, in development for Steam.*
 
-## A programmer in 2026?
+### Current projects
 
-I'm not a terribly nostalgic person, and while I do appreciate how programming used to be, I very much welcome the benefits brought by AI tools such as *Codex* and *OpenCode*. I've always wished for more time and more brain power to explore and implement the many ideas I had, and these tools are a giant leap in that direction.
+- **[OVERSWEEP](https://dpasca.github.io/portfolio/#oversweep)** — Solo development of a carrier-interceptor game: rendering, flight dynamics, avionics, and guided flight instruction.
+- **[Little Control Room](https://github.com/dpasca/LittleControlRoom)** — Sessions, worktrees, diffs, and runtimes in one place, across coding-agent providers.
+- **[AskMei.ai](https://askmei.ai)** — An AI assistant I developed from interface to deployment, with model routing, tools, editable memory, and payments.
+- **[PermanentUnderclass](https://github.com/dpasca/PermanentUnderclass)** — An experimental native macOS app for local dictation, meeting transcription, and language assistance.
 
-This is also what led me to build [Little Control Room](https://github.com/dpasca/LittleControlRoom) (LCR): my own tailor-made modern IDE for AI-assisted development. To me it offers a glimpse into the future of software, where any competent developer can build the necessary tools and small, focused applications they need with far more ease than before.
+AI agents are part of my daily workflow, with architecture, review, and verification remaining central to the work. [More on how I work →](https://dpasca.github.io/portfolio/notes/how-i-work.html)
 
-I believe this to be a new golden age for engineers. Modern LLMs are incredibly powerful. A major focus of my research is to extract the most from them, from the perspective of a software engineer.
+Based in **Tokyo**. I speak **Italian, English, and Japanese**, and keep room for contract work in graphics, simulation, performance, and AI products.
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/dpasca/LittleControlRoom">
-        <img src="https://raw.githubusercontent.com/dpasca/LittleControlRoom/master/docs/screenshots/main-panel.png" width="400" alt="Little Control Room dashboard">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/dpasca/LittleControlRoom">
-        <img src="https://raw.githubusercontent.com/dpasca/LittleControlRoom/master/docs/screenshots/diff-view-image.png" width="400" alt="Little Control Room image diff view">
-      </a>
-    </td>
-  </tr>
-</table>
-
-|  Quick Links              |                                           |
-|:--------------------------|:------------------------------------------|
-| 💻 My GitHub Profile      | [github.com/dpasca](https://github.com/dpasca)      |
-| 📚 My GitHub Portfolio    | [dpasca.github.io/portfolio](https://dpasca.github.io/portfolio) |
-| 📈 My Business            | [NEWTYPE K.K.](https://newtypekk.com)        |
-| 📺 My YouTube Channel     | [DavidePasca](https://www.youtube.com/c/DavidePasca) |
-| ✍️ My Blog                | [xpsvr.com](https://xpsvr.com)            |
-| 📧 Contact                | dpasca@gmail.com                          |
+[NEWTYPE K.K.](https://newtypekk.com) · [OYK Games](https://oykgames.com) · [Blog](https://xpsvr.com) · [YouTube](https://www.youtube.com/c/DavidePasca)
